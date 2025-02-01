@@ -14,98 +14,81 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Cloud Computing" },
+    { "name": "VR/AR Development" },
+    { "name": "Chinese Webnovels" },
+    { "name": "Web/Mobile App Development"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Meteor" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "area": "Information & Computer Sciences",
+      "studyType": "B.A.",
+      "startDate": "2020-08-21",
+      "endDate": "2024-12-20",
       "courses": [
+        "MATH 242 Calculus 2",
+        "ICS 311 Algorithms",
+        "ICS 314: Software Engineering",
+        "ICS 321: Database Systems",
+        "ICS 427: Quality Assurance"
+      ]
+    },
+    {
+      "institution": "Comptia IT Certification",
+      "area": "Comptia A+ 1101-1102",
+      "studyType": "Computer Troubleshooting",
+      "startDate": "2022",
+      "courses": [
+        "Developed skills in explaining technical concepts to users, assisting in software and system navigation, and providing step-by-step troubleshooting guidance",
+        "Familiarity with computer parts and problems associated with malfunctioning of each component",
+        "Understanding of cybersecurity principles, user access control, and proper procedures for system maintenance and data protection"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Honolulu Community College",
+      "position": "Student Assistant",
+      "website": "https://www.honolulu.hawaii.edu/",
+      "startDate": "2024-04-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student office assistant for the academic advising office",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist college counselors/advisors in office with technical and physical tasks that range from creating powerpoints for new student orientation, to redacting private student information on archived files",
+        "Collaborated with front desk personnel to answer phone calls and use problem solving skills to redirect students to appropriate resource for the situation they are experiencing",
+        "Develop simple excel scripts for improvement of convenience for college advisors"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Malama A'ina",
+      "position": "Campus Volunteer",
+      "startDate": "2019-01-25",
+      "endDate": "2019-03-11",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Collaborate with a group of volunteers to perform sanitation tasks along the HCC campus ranging from the library to the cafeteria"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Cum Laude graduate",
+      "date": "December 2024",
+      "awarder": "UH Manoa",
+      "summary": "Given to students who graduate with a GPA of 3.5 - 3.69"
     }
   ],
   "references": [
