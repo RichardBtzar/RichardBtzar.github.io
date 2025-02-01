@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Richard Baltazar",
+    "label": "Information & Computer Sciences Graduate",
+    "picture": "https://github.com/richardbtzar.png",
+    "email": "richardbtzar@hawaii.edu",
+    "phone": "808-800-1539",
+    "website": "https://richardbtzar.github.io",
+    "summary": "Recent Information and Computer Sciences graduate eager to begin a career in software development. Experienced in web and client-based application development through university projects, with a strong foundation in problem-solving and technical concepts. Procient in troubleshooting and system maintenance, with CompTIA A+ certification. Committed to continuous learning, writing clean and efficient code, and contributing to innovative solutions in a collaborative environment.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "RichardBzar", "url": "http://github.com/richardbzar" },
+      { "network": "linkedin", "username": "Richard Baltazar", "url": "https://www.linkedin.com/in/richard-baltazar-91330b28a/" },
     ]
   },
   "interests": [
